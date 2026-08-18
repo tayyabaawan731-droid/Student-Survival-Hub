@@ -1,0 +1,22 @@
+# Project TODO
+
+- [x] Define the Student Survival Hub data model, permissions, and MVP user journeys.
+- [x] Create a beginner-friendly project guide that explains every project folder and feature-specific file.
+- [x] Extend the database schema for student profiles, notes, study groups, group memberships, timetable entries, deadlines, and lost-and-found posts.
+- [x] Apply the database migration and implement backend procedures with access controls.
+- [x] Implement secure note-file uploads using managed storage and store file metadata in the database.
+- [x] Build the public landing experience and secure student sign-in flow.
+- [x] Build the student profile setup and editing experience for name, university, department, and semester.
+- [x] Build the dashboard overview for upcoming deadlines, today’s classes, and recent notes.
+- [x] Build notes browse, upload, download, search, category, and subject filtering features.
+- [x] Build study group creation, browsing, search, joining, and member-list features.
+- [x] Build the weekly timetable add, view, and removal features.
+- [x] Build deadline creation, priority filtering, and completion tracking features.
+- [x] Build the lost-and-found creation, browsing, contact, search, and filter features.
+- [x] Apply the vibrant Memphis-inspired responsive visual system across the site.
+- [x] Finalize page metadata, state management, error handling, time validation, and deadline priority filtering.
+- [x] Add automated tests, run validation, visually verify the responsive user interface, and fix identified issues.
+- [x] Capture and review responsive screenshots of every authenticated workspace screen after the final fixes.
+- [x] Fix the first-time profile setup query so students without a saved profile receive an editable empty form.
+- [x] Save a final project checkpoint and provide the user with the delivered project version and beginner documentation.
+- [ ] Export a VS Code-ready source bundle with all project code and setup documentation.
